@@ -1,4 +1,4 @@
-# 💫 About Me: I am Chiranjeev Tripathi
+#  About Me: I am Chiranjeev Tripathi
 
 
 ## 🌐 Socials:
