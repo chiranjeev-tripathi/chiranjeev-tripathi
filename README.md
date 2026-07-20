@@ -103,12 +103,7 @@ Passionate about Data Analytics, Machine Learning, Cloud Computing, and solving 
 
 - Data Structures & Algorithms using Java
 - AWS Cloud
-
-
-**LinkedIn:** https://www.linkedin.com/in/chiranjeev-tripathi
-
----
-
+  
 <p align="center">
 Thank you for visiting my GitHub profile.
 </p>
