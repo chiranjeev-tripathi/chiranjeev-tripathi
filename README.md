@@ -106,5 +106,8 @@ Passionate about Data Analytics, Machine Learning, Cloud Computing, and solving 
   
 <p align="center">
 Thank you for visiting my GitHub profile.
----Download  the resume from the given link below
+</p>
+  
+<p align="center">
+Download the resume from the link given below
 </p>
