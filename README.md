@@ -22,7 +22,7 @@ Passionate about Data Analytics, Machine Learning, Cloud Computing, and solving 
 ## Self Introduction Video
 
 <p align="center">
-<a href="https://github.com/chiranjeev-tripathi/Self-introduction-video/blob/main/566795082-f7f22a31-2778-4b1d-959c-86cbfa71626d.mp4">
+<a href= "https://github.com/chiranjeev-tripathi/Self-introduction-video">
 <img src="https://img.shields.io/badge/Watch%20My%20Self%20Introduction-blue?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
