@@ -107,19 +107,6 @@ Passionate about Data Analytics, Machine Learning, Cloud Computing, and solving 
 
 - Data Structures & Algorithms using Java
 - AWS Cloud
-- Machine Learning
-- SQL Optimization
-- Power BI Dashboard Development
-
----
-
-## Contact
-
-**Email:** chiranjeevtripathi2204@gmail.com
-
-**LinkedIn:** https://www.linkedin.com/in/chiranjeev-tripathi
-
----
 
 <p align="center">
 Thank you for visiting my GitHub profile.
