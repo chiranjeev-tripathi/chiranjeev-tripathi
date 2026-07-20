@@ -27,8 +27,11 @@ Passionate about Data Analytics, Machine Learning, Cloud Computing, and solving 
 </a>
 </p>
 <p align="center">
+<a href=<p align="center">
 <a href="https://raw.githubusercontent.com/chiranjeev-tripathi/chiranjeev-tripathi/main/Chiranjeev_Tripathi_Resume.pdf" target="_blank">
 <img src="https://img.shields.io/badge/Download%20Resume-2E8B57?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+</p> target="_blank">
 </a>
 </p>
 
