@@ -1,44 +1,37 @@
+<h1 align="center">Chiranjeev Tripathi</h1>
 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<h1 align="center">Hi 👋, I'm Chiranjeev Tripathi</h1>
-<h3 align="center">Aspiring Data Analyst | AI & ML Enthusiast | B.Tech CSE @ VIT Bhopal</h3>
+<h3 align="center">
+B.Tech Computer Science Engineering Student | Aspiring Data Analyst | AI & Machine Learning Enthusiast
+</h3>
 
 <p align="center">
-  <a href="https://github.com/chiranjeev-tripathi">
-    <img src="https://komarev.com/ghpvc/?username=chiranjeev-tripathi&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
+Passionate about Data Analytics, Machine Learning, Cloud Computing, and solving real-world problems through technology.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-🎓 B.Tech Computer Science Engineering student at **VIT Bhopal University**
-
-📊 Passionate about **Data Analytics, Machine Learning, AI, and Cloud Computing**
-
-💡 Interested in solving real-world problems using **Python, SQL, Power BI, and Java**
-
-🌱 Currently learning
-- Data Structures & Algorithms (Java)
-- AWS Cloud
-- Machine Learning
+- B.Tech Computer Science Engineering Student at **VIT Bhopal University**
+- Interested in **Data Analytics, Machine Learning, Artificial Intelligence, SQL, and Cloud Computing**
+- Currently improving my **Data Structures & Algorithms** skills using Java
+- Open to internship and placement opportunities
 
 ---
 
-## 🎥 Self Introduction
+## Self Introduction Video
 
 <p align="center">
 <a href="https://github.com/chiranjeev-tripathi/Self-introduction-video/blob/main/566795082-f7f22a31-2778-4b1d-959c-86cbfa71626d.mp4">
-<img src="https://img.shields.io/badge/▶️%20Watch%20My%20Self%20Introduction-red?style=for-the-badge&logo=youtube&logoColor=white"/>
+<img src="https://img.shields.io/badge/Watch%20My%20Self%20Introduction-blue?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
+> **Replace the link above with your YouTube link later if you upload the video to YouTube.**
+
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
 
@@ -54,69 +47,80 @@
 
 ---
 
-## 💻 Tech Stack
+## Technical Skills
+
+### Programming Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### Web Technologies
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Data Analytics
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+### Machine Learning
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### Cloud & Tools
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+
+---
+
+## GitHub Statistics
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,html,css,mysql,git,github,aws"/>
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=chiranjeev-tripathi&theme=blueberry&show_icons=true&hide_border=false"/>
 
-<br><br>
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=chiranjeev-tripathi&layout=compact&theme=blueberry&hide_border=false"/>
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=chiranjeev-tripathi&theme=blueberry&hide_border=false"/>
 
 </p>
 
 ---
 
-## 📈 GitHub Statistics
+## Currently Learning
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=chiranjeev-tripathi&show_icons=true&theme=tokyonight"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chiranjeev-tripathi&theme=tokyonight"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiranjeev-tripathi&layout=compact&theme=tokyonight"/>
-
-</p>
+- Data Structures & Algorithms using Java
+- AWS Cloud
+- Machine Learning
+- SQL Optimization
+- Power BI Dashboard Development
 
 ---
 
-## 🏆 GitHub Trophies
+## Contact
 
-<p align="center">
+**Email:** chiranjeevtripathi2204@gmail.com
 
-<img src="https://github-profile-trophy.vercel.app/?username=chiranjeev-tripathi&theme=algolia&margin-w=10"/>
-
-</p>
-
----
-
-## 🚀 Current Focus
-
-✔ Data Analytics
-
-✔ Machine Learning
-
-✔ SQL & Power BI
-
-✔ Java DSA
-
-✔ AWS Cloud
+**LinkedIn:** https://www.linkedin.com/in/chiranjeev-tripathi
 
 ---
 
 <p align="center">
-
-⭐ If you like my projects, consider giving them a star!
-
+Thank you for visiting my GitHub profile.
 </p>
