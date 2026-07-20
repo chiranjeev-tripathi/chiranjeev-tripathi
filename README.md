@@ -26,18 +26,6 @@ Passionate about Data Analytics, Machine Learning, Cloud Computing, and solving 
 <img src="https://img.shields.io/badge/Watch%20My%20Self%20Introduction-blue?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
-<p align="center">
-<a href=<p align="center">
-<a href="https://raw.githubusercontent.com/chiranjeev-tripathi/chiranjeev-tripathi/main/Chiranjeev_Tripathi_Resume.pdf" target="_blank">
-<img src="https://img.shields.io/badge/Download%20Resume-2E8B57?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-</a>
-</p> target="_blank">
-</a>
-</p>
-
-> **Replace the link above with your YouTube link later if you upload the video to YouTube.**
-
----
 
 ## Connect With Me
 
