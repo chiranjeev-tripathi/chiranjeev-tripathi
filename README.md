@@ -10,8 +10,8 @@
 
 <!-- Replace the link below with your YouTube, Google Drive, or GitHub video link -->
 
- **Watch My Self Introduction:**  
-**https://YOUR_VIDEO_LINK_HERE**
+
+
 
 <!-- If you have a thumbnail image, use this instead:
 [![Watch My Introduction](https://YOUR_THUMBNAIL_IMAGE_LINK)](https://YOUR_VIDEO_LINK_HERE)
