@@ -27,7 +27,13 @@ Passionate about Data Analytics, Machine Learning, Cloud Computing, and solving 
 </a>
 </p>
 
+<p align="center">
+<a href= >
+<img src="https://img.shields.io/badge/Watch%20My%20Self%20Introduction-blue?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 ## Connect With Me
+
 
 <p align="center">
 
