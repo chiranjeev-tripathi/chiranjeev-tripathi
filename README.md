@@ -28,11 +28,13 @@ Passionate about Data Analytics, Machine Learning, Cloud Computing, and solving 
 </p>
 
 <p align="center">
-<a href= https://portfolio-chiranjeev-beta.vercel.app/>
-</a>
+  <a href="https://portfolio-chiranjeev-beta.vercel.app/" target="_blank">
+    🌐 View My Portfolio
+  </a>
 </p>
-## Connect With Me
 
+
+## Connect With Me
 
 <p align="center">
 
